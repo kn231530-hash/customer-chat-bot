@@ -39,7 +39,7 @@ export default function HomePage() {
             <div className="eyebrow">Customer Service AI</div>
             <h1>Help customers faster, with answers you control.</h1>
             <p className="lead">A website chatbot connected to your business knowledge base. FAQs, company information, documents and custom content can become one searchable support source.</p>
-            <a className="admin-link" href="/admin">Open admin dashboard →</a>
+            <a className="admin-link" href="/admin/login">Admin Login →</a>
           </div>
           <section className="card chat" aria-label="Customer service chatbot">
             <div className="chat-head"><strong>Support Assistant</strong><span className="status">● Online</span></div>
